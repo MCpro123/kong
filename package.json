@@ -1,0 +1,14 @@
+{
+  "name": "kong-game-bot",
+  "version": "1.0.0",
+  "description": "KONG Online Game Bot",
+  "main": "endless_play_all_parallelll.js",
+  "scripts": {
+    "start": "node endless_play_all_parallelll.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "crypto-js": "^4.2.0",
+    "googleapis": "^133.0.0"
+  }
+}
